@@ -1,2 +1,2 @@
 # pi
-Raspberry PI images for deployment
+Raspberry PI source code and images for deployment
